@@ -11,6 +11,8 @@ Official implementation of the WWW'23 research paper: TFE-GNN: A Temporal Fusion
 The source codes will be available soon with our incoming future work.
 
 
+Note: I left this message to show that I didn't forget to open source the code. There were so many things going on during this period that I didn’t have time to calm down and sort out the code. Later, I will open source the code of the new and old work together. The new work will be a very simple but effective improvement and will appear on arxiv soon...
+
 
 
 ## Citation
