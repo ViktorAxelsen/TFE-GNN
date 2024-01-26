@@ -10,7 +10,7 @@ Official implementation of the WWW'23 research paper: TFE-GNN: A Temporal Fusion
 
 ## News
 
-🌟[CLE-TFE](https://github.com/ViktorAxelsen/CLE-TFE) is now open source, which is an improved version of TFE-GNN. 
+🌟 [CLE-TFE](https://github.com/ViktorAxelsen/CLE-TFE) is now open source, which is an improved version of TFE-GNN. 
 
 
 
