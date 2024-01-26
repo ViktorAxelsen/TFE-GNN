@@ -23,7 +23,7 @@ pip install scapy
 
 ### Download Datasets
 
-[ISCXVPN2016](https://www.unb.ca/cic/datasets/vpn.html) & [ISCXTor2016](https://www.unb.ca/cic/datasets/tor.html)
+[ISCXVPN2016](https://www.unb.ca/cic/datasets/vpn.html) & [ISCXTOR2016](https://www.unb.ca/cic/datasets/tor.html)
 
 
 Or you can also prepare your own datasets.
@@ -117,7 +117,7 @@ There are some reasons for possible differences in reproduction results.
 
   + Since most of the current network traffic datasets do not have a unified way to partition the training dataset and test dataset, this may lead to differences in results, which is normal.
 
-In addition to potential differences, we recommend adjusting the hyperparameters in your environment configuration to achieve optimal results. 
+In addition to potential differences, we recommend adjusting the hyperparameters in your data and environment configuration to achieve optimal results. 
 
 **We also recommend directly using the code of our latest work, a simple and effective model called [CLE-TFE](https://github.com/ViktorAxelsen/CLE-TFE) based on TFE-GNN. CLE-TFE comprehensively surpasses TFE-GNN and supports both flow classification and packet classification tasks while maintaining small computational overhead**. 
 
