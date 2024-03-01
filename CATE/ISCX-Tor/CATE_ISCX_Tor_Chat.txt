@@ -1,0 +1,16 @@
+CHAT_icqchatgateway.pcap.TCP_10-0-2-15_58368_82-161-239-177_110.pcap
+CHAT_hangoutschatgateway.pcap.TCP_10-0-2-15_55339_62-75-252-35_9001.pcap
+CHAT_gate_ICQ_chat.pcap.TCP_10-0-2-15_34328_198-52-200-39_443.pcap
+CHAT_gate_hangout_chat.pcap.TCP_10-0-2-15_52180_148-251-190-229_9010.pcap
+CHAT_gate_facebook_chat.pcap.TCP_10-0-2-15_45788_198-52-200-39_443.pcap
+CHAT_hangoutschatgateway.pcap.TCP_10-0-2-15_42857_195-154-128-151_443.pcap
+CHAT_gate_skype_chat.pcap.TCP_10-0-2-15_45788_198-52-200-39_443.pcap
+CHAT_gate_hangout_chat.pcap.TCP_5-9-123-81_9001_10-0-2-15_60740.pcap
+CHAT_aimchatgateway.pcap.TCP_10-0-2-15_58368_82-161-239-177_110.pcap
+CHAT_hangoutschatgateway.pcap.TCP_10-0-2-15_47257_82-161-239-177_110.pcap
+CHAT_gate_AIM_chat.pcap.TCP_10-0-2-15_34328_198-52-200-39_443.pcap
+CHAT_facebookchatgateway.pcap.TCP_10-0-2-15_47257_82-161-239-177_110.pcap
+CHAT_gate_AIM_chat.pcap.TCP_10-0-2-15_47384_148-251-190-229_9010.pcap
+CHAT_skypechatgateway.pcap.TCP_10-0-2-15_47257_82-161-239-177_110.pcap
+CHAT_gate_AIM_chat.pcap.TCP_5-9-123-81_9001_10-0-2-15_48917.pcap
+CHAT_gate_hangout_chat.pcap.TCP_10-0-2-15_45788_198-52-200-39_443.pcap

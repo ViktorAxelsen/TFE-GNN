@@ -43,6 +43,16 @@ We use [SplitCap](https://www.netresec.com/?page=SplitCap) to obtain bidirection
 You may encounter some pcap file format conversion problems, and we just provide a simple script **pcapng2pcap.py** to convert .pcapng to .pcap files.
 
 
+**Note**: We only use TCP pcap files in our work.
+
+
+
+### Categorization Details
+
+For specific categorization of each dataset, please refer to folder **CATE**.
+
+
+
 
 ### Convert .pcap to .npz Files
 

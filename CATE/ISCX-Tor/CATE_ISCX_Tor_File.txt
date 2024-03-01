@@ -1,0 +1,6 @@
+FILE-TRANSFER_gate_FTP_transfer.pcap.TCP_10-0-2-15_36922_198-52-200-39_443.pcap
+FILE-TRANSFER_gate_FTP_transfer.pcap.TCP_5-9-123-81_9001_10-0-2-15_34367.pcap
+FILE-TRANSFER_gate_SFTP_filetransfer.pcap.TCP_10-0-2-15_36922_198-52-200-39_443.pcap
+FILE-TRANSFER_gate_FTP_transfer.pcap.TCP_10-0-2-15_59875_148-251-190-229_9010.pcap
+FILE-TRANSFER_tor_skype_transfer.pcap.TCP_10-0-2-15_36629_195-154-107-23_443.pcap
+FILE-TRANSFER_gate_FTP_transfer.pcap.TCP_5-9-123-81_9001_10-0-2-15_34361.pcap
