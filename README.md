@@ -122,6 +122,14 @@ python test.py --dataset iscx-nontor --cuda 0
 ```
 
 
+## Potential Bugs
+
+- **remove() function in utils.py**
+
+  + The location of the header in the packet may change, so check this when using other datasets.
+
+
+
 
 ## Note
 
