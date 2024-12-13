@@ -10,7 +10,7 @@ Official implementation of the WWW'23 research paper: TFE-GNN: A Temporal Fusion
 
 ## News
 
-🔥 **[2024-12]** Our latest work [MH-Net](https://github.com/ViktorAxelsen/CLE-TFE) was accepted by AAAI 2025, and the code will be released in the next few days. We hope our work can bring some novel insights to the community, empowering network traffic identification with graph representation learning.
+🔥 **[2024-12]** Our latest work [MH-Net](https://github.com/ViktorAxelsen/MH-Net) was accepted by AAAI 2025, and the code will be released in the next few days. We hope our work can bring some novel insights to the community, empowering network traffic identification with graph representation learning.
 
 🌟 **[2024-01]** [CLE-TFE](https://github.com/ViktorAxelsen/CLE-TFE) is now open source, which is an improved version of TFE-GNN. 
 
