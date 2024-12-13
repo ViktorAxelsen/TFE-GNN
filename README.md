@@ -10,7 +10,9 @@ Official implementation of the WWW'23 research paper: TFE-GNN: A Temporal Fusion
 
 ## News
 
-🌟 [CLE-TFE](https://github.com/ViktorAxelsen/CLE-TFE) is now open source, which is an improved version of TFE-GNN. 
+🔥 **[2024-12]** Our latest work [MH-Net](https://github.com/ViktorAxelsen/CLE-TFE) was accepted by AAAI 2025, and the code will be released in the next few days. We hope our work can bring some novel insights to the community, empowering network traffic identification with graph representation learning.
+
+🌟 **[2024-01]** [CLE-TFE](https://github.com/ViktorAxelsen/CLE-TFE) is now open source, which is an improved version of TFE-GNN. 
 
 
 
@@ -142,8 +144,6 @@ There are some reasons for possible differences in reproduction results.
   + Since most of the current network traffic datasets do not have a unified way to partition the training dataset and test dataset, this may lead to differences in results, which is normal.
 
 In addition to potential differences, we recommend adjusting the hyperparameters in your data and environment configuration to achieve optimal results. 
-
-**We also recommend directly using the code of our latest work, a simple and effective model called [CLE-TFE](https://github.com/ViktorAxelsen/CLE-TFE) based on TFE-GNN. CLE-TFE comprehensively surpasses TFE-GNN and supports both flow classification and packet classification tasks while maintaining small computational overhead**. 
 
 
 
